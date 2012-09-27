@@ -48,9 +48,10 @@ Petals
 :Porteur: un consortium (OW2) et un éditeur (Petals Link)
 :Licence: LGPL
 
-Petals ESB est un bus de services d’entreprise (ESB) open source, médiateur et plaque tournante d’une infrastructure SOA. Le projet est dirigé par Petals Link, et est développé sur les forges du consortium OW2.
+Petals ESB est un bus de services d’entreprise (ESB) open source, médiateur et plaque tournante d’une infrastructure SOA. Le projet est dirigé par Petals Link, désormais racheté par LINAGORA, et est développé sur les forges du consortium OW2.
 
 Petals ESB répond aux problématiques de la SOA : un système d’information flexible et adapté aux évolutions rapides de l’IT. Le tout avec un système temps réel et ouvert à l'extérieur. Intégré avec Petals View (supervision métier), Petals Master (gouvernance de SOA) et Petals Studio (Environnement de développement SOA), Petals ESB se place au centre d'une solution complète et open source pour une infrastructure SOA. Petals supporte et intégre de nombreux protocoles et technologies : JBI, SCA, BPEL, EIP,  Java, JSR 181, XSLT, XSD WSDL, SOAP, REST, POP, SMTP, IMAP, Plateforme JSE.
+Il est accompagné de plusieurs outils facilitant son déploiement et son adaptation : un IDE dédié au bus, Petals Studio, un outil de gouvernance des services, Petals Master, ainsi que des outils d'administration distante en ligne de commande.
 
 
 Autres
